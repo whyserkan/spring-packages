@@ -13,7 +13,8 @@
  - Fixer connection.
  - Product  service connection.
 ##### Missing
- - Update, majority of unit tests (data tests, some service test, more fail test needed).
+ - Update
+ - Majority of unit tests (data tests, some service test, more failure tests needed).
  - Front end.
  - Price data floating part can be wrong.
  - There must be many missing validations, also there is not many proper responses (error message or status code) for exceptional situations.
