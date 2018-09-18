@@ -3,7 +3,7 @@
 - to run `./gradlew bootRun`
 - you can reach by 
 [http://localhost:8082/packages]()
-- [https://projectlombok.org/](Lombok) is being used. If you are using ide, you need to add lombok plugin and trun the annotation processing on in ide settings
+- [https://projectlombok.org/](Lombok) is being used. If you are using ide, you need to add lombok plugin and turn the annotation processing on in ide settings
 
 ##### Done parts
  - Create. 
