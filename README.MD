@@ -19,6 +19,6 @@
  - There must be many missing validations, also there is not many proper responses (error message or status code) for exceptional situations.
 ##### Focused on
  - Cover some endtoend tests.
- - Basic structure of goal project.
+ - Basic structure of aimed project.
  
  Thanks
