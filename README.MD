@@ -8,9 +8,9 @@
 ##### Done parts
  - Create 
  - Delete 
- - Fetch all, 
+ - Fetch all
  - Fetch (with currency also)
- - Fixer connection, 
+ - Fixer connection 
  - Product  service connection
 ##### Missing
  - Update, majority of unit tests (data tests, some service test, more fail test needed)
