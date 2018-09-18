@@ -2,8 +2,8 @@
 - to build `./gradlew build`
 - to run `./gradlew bootRun`
 - you can reach by 
-[http://localhost:8082/packages]()
-- [https://projectlombok.org/](Lombok) is being used. If you are using ide, you need to add lombok plugin and turn the annotation processing on in ide settings
+[http://localhost:8082/packages](http://localhost:8082/packages)
+- [Lombok](https://projectlombok.org/) is being used. If you are using ide, you need to add lombok plugin and turn the annotation processing on in ide settings
 
 ##### Done parts
  - Create. 
