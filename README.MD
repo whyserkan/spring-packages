@@ -5,7 +5,7 @@
 [http://localhost:8082/packages]()
 - [https://projectlombok.org/](Lombok) is used, if you are using ide you need to add lombok plugin and open annotation processing in ide settings
 
-#####  Done parts
+##### Done parts
  - Create 
  - Delete 
  - Fetch all, 
@@ -13,13 +13,12 @@
  - Fixer connection, 
  - Product  service connection
 ##### Missing
- - Update, majority of unit tests (data tests, some service test), front end
- - price data floating part can be wrong.
+ - Update, majority of unit tests (data tests, some service test, more fail test needed)
+ - Front end
+ - Price data floating part can be wrong.
  - There must be many missing validations also not proper responses for exceptional situations
 ##### Focused on
  - Cover some endtoend tests
  - Basic structure of goal project
  
  Thanks
-  
- 
